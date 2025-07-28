@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "BookVerse - Discover Amazing Books",
   description:
     "Explore thousands of books, find your next favorite read, and build your personal library with modern UI and smooth animations.",
-    generator: 'v0.dev',
   keywords: [
     "books",
     "bookstore",
