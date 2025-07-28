@@ -1,5 +1,5 @@
 # BOOK VERSE
-Open [https://bookverse.fluentflow.live/](Book Verse)
+Open [https://bookverse.fluentflow.live/]
 
 ## API
 [https://api.itbook.store/]
